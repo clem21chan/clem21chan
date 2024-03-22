@@ -1,6 +1,6 @@
 # Hi there! I'm Clement 👋
 
-I am a story telling magician 🧙‍♂️ that transforms incomprehensible datasets into compelling stories. As a fellow mage, I'm in love with learning new skills, techniques, and machine-learning spells to cast out unknown gems 💎 in data.
+I am a story telling magician 🧙‍♂️ that transforms incomprehensible datasets into compelling stories. As a fellow mage, I'm constantly learning new skills, techniques, and machine-learning spells to cast out unknown gems 💎 in data.
 
 Feel free to explore my projects in my repository 😁
 
