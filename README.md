@@ -1,8 +1,8 @@
 # Hi there! I'm Clement 👋
 
-- 🧙‍♂️ I am a data science magician that transforms incomprehensible datasets into compelling stories. As a fellow mage, I'm constantly learning new skills, techniques, and machine-learning spells to cast out unknown gems in data 💎
+- 🧙‍♂️ I am a data science magician that transforms incomprehensible datasets into compelling stories. As a fellow mage, I'm constantly learning new skills, techniques, and machine-learning spells to cast out unknown gems in data. 💎
 
-- 😁 Feel free to explore my projects in my repository
+- 😁 Feel free to explore my projects in the repository!
 
 **Let's Connect!**
 
@@ -13,8 +13,8 @@
 ## Current Project 🪄
 
 - [Clinical Trial Terminations](https://github.com/clem21chan/Clinical_Trials_Capstone): 🔍
-  - Creating a predictive machine learning model to determine critical factors associated with trial terminations based on **NLP word embedding** and **feature engineering**
-  - Dataset is based on [Clinical Trials.gov](https://clinicaltrials.gov/)
+  - Creating a predictive machine learning model to determine critical factors associated with trial terminations based on **NLP word embedding** and **feature engineering**.
+  - Dataset is based on [Clinical Trials.gov](https://clinicaltrials.gov/).
 
 ## My Technical Spells :electron:
 
