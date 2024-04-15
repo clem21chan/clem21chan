@@ -13,7 +13,7 @@
 ## Current Project 🪄
 
 - [Clinical Trial Terminations](https://github.com/clem21chan/Clinical_Trials_Capstone): 🔍
-  - Creating a predictive machine learning model to determine critical factors associated with trial terminations based on **NLP word embedding** and **feature engineering**.
+  - Creating a predictive machine learning model to determine critical factors associated with trial terminations based on **Feature Engineering**, **Ensemble**, and **Word Embedded Transfer Learning**.
   - Dataset is based on [Clinical Trials.gov](https://clinicaltrials.gov/).
 
 ## My Technical Spells :electron:
