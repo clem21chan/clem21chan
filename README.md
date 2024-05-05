@@ -12,7 +12,7 @@
 
 ## Current Project 🪄
 
-- [MNIST Digit Classification - Kaggle Competition](#https://github.com/clem21chan/MNIST_Digit_Recognizer): 🔢
+- [MNIST Digit Classification - Kaggle Competition](https://github.com/clem21chan/MNIST_Digit_Recognizer): 🔢
   - Classifying handwritten digits from the MNIST dataset with a team of data scientists.
   - Developed a Convolutional Neural Network Model that resulted in a `98%` classification test accuracy.
 
