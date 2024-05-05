@@ -12,6 +12,10 @@
 
 ## Current Project 🪄
 
+- [MNIST Digit Classification - Kaggle Competition](#https://github.com/clem21chan/MNIST_Digit_Recognizer): 🔢
+  - Classifying handwritten digits from the MNIST dataset with a team of data scientists.
+  - Developed a Convolutional Neural Network Model that resulted in a `98%` classification test accuracy.
+
 - [Clinical Trial Terminations](https://github.com/clem21chan/Clinical_Trials_Capstone): 🔍
   - Creating a predictive machine learning model to determine critical factors associated with trial terminations based on **Feature Engineering**, **Ensemble**, and **Word Embedded Transfer Learning**.
   - Dataset is based on [Clinical Trials.gov](https://clinicaltrials.gov/).
